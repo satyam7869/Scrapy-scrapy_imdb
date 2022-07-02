@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><title>The Shawshank Redemption</title><year>1994</year><rating>9.2</rating></item>
+<item><title>The Godfather</title><year>1972</year><rating>9.2</rating></item>
+<item><title>The Dark Knight</title><year>2008</year><rating>9.0</rating></item>
+<item><title>The Godfather Part II</title><year>1974</year><rating>9.0</rating></item>
+<item><title>12 Angry Men</title><year>1957</year><rating>8.9</rating></item>
+<item><title>Schindler's List</title><year>1993</year><rating>8.9</rating></item>
+<item><title>The Lord of the Rings: The Return of the King</title><year>2003</year><rating>8.9</rating></item>
+<item><title>Pulp Fiction</title><year>1994</year><rating>8.9</rating></item>
+<item><title>The Lord of the Rings: The Fellowship of the Ring</title><year>2001</year><rating>8.8</rating></item>
+<item><title>The Good, the Bad and the Ugly</title><year>1966</year><rating>8.8</rating></item>
+<item><title>Forrest Gump</title><year>1994</year><rating>8.8</rating></item>
+<item><title>Fight Club</title><year>1999</year><rating>8.7</rating></item>
+<item><title>Inception</title><year>2010</year><rating>8.7</rating></item>
+<item><title>The Lord of the Rings: The Two Towers</title><year>2002</year><rating>8.7</rating></item>
+<item><title>Star Wars: Episode V - The Empire Strikes Back</title><year>1980</year><rating>8.7</rating></item>
+<item><title>The Matrix</title><year>1999</year><rating>8.7</rating></item>
+<item><title>Goodfellas</title><year>1990</year><rating>8.7</rating></item>
+<item><title>One Flew Over the Cuckoo's Nest</title><year>1975</year><rating>8.6</rating></item>
+<item><title>Se7en</title><year>1995</year><rating>8.6</rating></item>
+<item><title>Seven Samurai</title><year>1954</year><rating>8.6</rating></item>
+<item><title>It's a Wonderful Life</title><year>1946</year><rating>8.6</rating></item>
+<item><title>The Silence of the Lambs</title><year>1991</year><rating>8.6</rating></item>
+<item><title>City of God</title><year>2002</year><rating>8.6</rating></item>
+<item><title>Saving Private Ryan</title><year>1998</year><rating>8.6</rating></item>
+<item><title>Life Is Beautiful</title><year>1997</year><rating>8.6</rating></item>
+<item><title>The Green Mile</title><year>1999</year><rating>8.6</rating></item>
+<item><title>Interstellar</title><year>2014</year><rating>8.6</rating></item>
+<item><title>Star Wars</title><year>1977</year><rating>8.6</rating></item>
+<item><title>Terminator 2: Judgment Day</title><year>1991</year><rating>8.5</rating></item>
+<item><title>Back to the Future</title><year>1985</year><rating>8.5</rating></item>
+<item><title>Spirited Away</title><year>2001</year><rating>8.5</rating></item>
+<item><title>Psycho</title><year>1960</year><rating>8.5</rating></item>
+<item><title>The Pianist</title><year>2002</year><rating>8.5</rating></item>
+<item><title>Léon: The Professional</title><year>1994</year><rating>8.5</rating></item>
+<item><title>Parasite</title><year>2019</year><rating>8.5</rating></item>
+<item><title>The Lion King</title><year>1994</year><rating>8.5</rating></item>
+<item><title>Gladiator</title><year>2000</year><rating>8.5</rating></item>
+<item><title>American History X</title><year>1998</year><rating>8.5</rating></item>
+<item><title>The Usual Suspects</title><year>1995</year><rating>8.5</rating></item>
+<item><title>The Departed</title><year>2006</year><rating>8.5</rating></item>
+<item><title>The Prestige</title><year>2006</year><rating>8.5</rating></item>
+<item><title>Casablanca</title><year>1942</year><rating>8.5</rating></item>
+<item><title>Whiplash</title><year>2014</year><rating>8.5</rating></item>
+<item><title>Top Gun: Maverick</title><year>2022</year><rating>8.5</rating></item>
+<item><title>The Intouchables</title><year>2011</year><rating>8.5</rating></item>
+<item><title>Modern Times</title><year>1936</year><rating>8.4</rating></item>
+<item><title>Hara-Kiri</title><year>1962</year><rating>8.4</rating></item>
+<item><title>Grave of the Fireflies</title><year>1988</year><rating>8.4</rating></item>
+<item><title>Once Upon a Time in the West</title><year>1968</year><rating>8.4</rating></item>
+<item><title>Rear Window</title><year>1954</year><rating>8.4</rating></item>
+<item><title>Alien</title><year>1979</year><rating>8.4</rating></item>
+<item><title>City Lights</title><year>1931</year><rating>8.4</rating></item>
+<item><title>Cinema Paradiso</title><year>1988</year><rating>8.4</rating></item>
+<item><title>Memento</title><year>2000</year><rating>8.4</rating></item>
+<item><title>Apocalypse Now</title><year>1979</year><rating>8.4</rating></item>
+<item><title>Indiana Jones and the Raiders of the Lost Ark</title><year>1981</year><rating>8.4</rating></item>
+<item><title>Django Unchained</title><year>2012</year><rating>8.4</rating></item>
+<item><title>WALL·E</title><year>2008</year><rating>8.4</rating></item>
+<item><title>The Lives of Others</title><year>2006</year><rating>8.4</rating></item>
+<item><title>Sunset Blvd.</title><year>1950</year><rating>8.4</rating></item>
+<item><title>Paths of Glory</title><year>1957</year><rating>8.4</rating></item>
+<item><title>The Shining</title><year>1980</year><rating>8.4</rating></item>
+<item><title>The Great Dictator</title><year>1940</year><rating>8.4</rating></item>
+<item><title>Witness for the Prosecution</title><year>1957</year><rating>8.4</rating></item>
+<item><title>Avengers: Infinity War</title><year>2018</year><rating>8.4</rating></item>
+<item><title>Aliens</title><year>1986</year><rating>8.3</rating></item>
+<item><title>American Beauty</title><year>1999</year><rating>8.3</rating></item>
+<item><title>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</title><year>1964</year><rating>8.3</rating></item>
+<item><title>Spider-Man: Into the Spider-Verse</title><year>2018</year><rating>8.3</rating></item>
+<item><title>The Dark Knight Rises</title><year>2012</year><rating>8.3</rating></item>
+<item><title>Oldboy</title><year>2003</year><rating>8.3</rating></item>
+<item><title>Joker</title><year>2019</year><rating>8.3</rating></item>
+<item><title>Amadeus</title><year>1984</year><rating>8.3</rating></item>
+<item><title>Braveheart</title><year>1995</year><rating>8.3</rating></item>
+<item><title>Toy Story</title><year>1995</year><rating>8.3</rating></item>
+<item><title>Coco</title><year>2017</year><rating>8.3</rating></item>
+<item><title>The Boat</title><year>1981</year><rating>8.3</rating></item>
+<item><title>Inglourious Basterds</title><year>2009</year><rating>8.3</rating></item>
+<item><title>Princess Mononoke</title><year>1997</year><rating>8.3</rating></item>
+<item><title>Avengers: Endgame</title><year>2019</year><rating>8.3</rating></item>
+<item><title>Once Upon a Time in America</title><year>1984</year><rating>8.3</rating></item>
+<item><title>Good Will Hunting</title><year>1997</year><rating>8.3</rating></item>
+<item><title>Requiem for a Dream</title><year>2000</year><rating>8.3</rating></item>
+<item><title>Toy Story 3</title><year>2010</year><rating>8.3</rating></item>
+<item><title>Your Name.</title><year>2016</year><rating>8.3</rating></item>
+<item><title>Singin' in the Rain</title><year>1952</year><rating>8.3</rating></item>
+<item><title>3 Idiots</title><year>2009</year><rating>8.3</rating></item>
+<item><title>Star Wars: Episode VI - Return of the Jedi</title><year>1983</year><rating>8.3</rating></item>
+<item><title>2001: A Space Odyssey</title><year>1968</year><rating>8.3</rating></item>
+<item><title>Eternal Sunshine of the Spotless Mind</title><year>2004</year><rating>8.3</rating></item>
+<item><title>Reservoir Dogs</title><year>1992</year><rating>8.3</rating></item>
+<item><title>High and Low</title><year>1963</year><rating>8.3</rating></item>
+<item><title>Capernaum</title><year>2018</year><rating>8.3</rating></item>
+<item><title>Citizen Kane</title><year>1941</year><rating>8.3</rating></item>
+<item><title>Lawrence of Arabia</title><year>1962</year><rating>8.3</rating></item>
+<item><title>The Hunt</title><year>2012</year><rating>8.3</rating></item>
+<item><title>M</title><year>1931</year><rating>8.3</rating></item>
+<item><title>North by Northwest</title><year>1959</year><rating>8.3</rating></item>
+<item><title>Vertigo</title><year>1958</year><rating>8.2</rating></item>
+<item><title>Amélie</title><year>2001</year><rating>8.2</rating></item>
+<item><title>A Clockwork Orange</title><year>1971</year><rating>8.2</rating></item>
+<item><title>Come and See</title><year>1985</year><rating>8.2</rating></item>
+<item><title>Full Metal Jacket</title><year>1987</year><rating>8.2</rating></item>
+<item><title>Double Indemnity</title><year>1944</year><rating>8.2</rating></item>
+<item><title>The Apartment</title><year>1960</year><rating>8.2</rating></item>
+<item><title>Scarface</title><year>1983</year><rating>8.2</rating></item>
+<item><title>Ikiru</title><year>1952</year><rating>8.2</rating></item>
+<item><title>The Sting</title><year>1973</year><rating>8.2</rating></item>
+<item><title>To Kill a Mockingbird</title><year>1962</year><rating>8.2</rating></item>
+<item><title>Taxi Driver</title><year>1976</year><rating>8.2</rating></item>
+<item><title>L.A. Confidential</title><year>1997</year><rating>8.2</rating></item>
+<item><title>Up</title><year>2009</year><rating>8.2</rating></item>
+<item><title>Heat</title><year>1995</year><rating>8.2</rating></item>
+<item><title>Hamilton</title><year>2020</year><rating>8.2</rating></item>
+<item><title>Metropolis</title><year>1927</year><rating>8.2</rating></item>
+<item><title>A Separation</title><year>2011</year><rating>8.2</rating></item>
+<item><title>Snatch</title><year>2000</year><rating>8.2</rating></item>
+<item><title>Die Hard</title><year>1988</year><rating>8.2</rating></item>
+<item><title>Incendies</title><year>2010</year><rating>8.2</rating></item>
+<item><title>Indiana Jones and the Last Crusade</title><year>1989</year><rating>8.2</rating></item>
+<item><title>Bicycle Thieves</title><year>1948</year><rating>8.2</rating></item>
+<item><title>1917</title><year>2019</year><rating>8.2</rating></item>
+<item><title>Spider-Man: No Way Home</title><year>2021</year><rating>8.2</rating></item>
+<item><title>Like Stars on Earth</title><year>2007</year><rating>8.2</rating></item>
+<item><title>Downfall</title><year>2004</year><rating>8.2</rating></item>
+<item><title>For a Few Dollars More</title><year>1965</year><rating>8.2</rating></item>
+<item><title>Batman Begins</title><year>2005</year><rating>8.2</rating></item>
+<item><title>Dangal</title><year>2016</year><rating>8.2</rating></item>
+<item><title>The Kid</title><year>1921</year><rating>8.2</rating></item>
+<item><title>Some Like It Hot</title><year>1959</year><rating>8.2</rating></item>
+<item><title>The Father</title><year>2020</year><rating>8.2</rating></item>
+<item><title>All About Eve</title><year>1950</year><rating>8.2</rating></item>
+<item><title>Green Book</title><year>2018</year><rating>8.2</rating></item>
+<item><title>The Wolf of Wall Street</title><year>2013</year><rating>8.2</rating></item>
+<item><title>Judgment at Nuremberg</title><year>1961</year><rating>8.2</rating></item>
+<item><title>Unforgiven</title><year>1992</year><rating>8.2</rating></item>
+<item><title>Ran</title><year>1985</year><rating>8.2</rating></item>
+<item><title>Casino</title><year>1995</year><rating>8.2</rating></item>
+<item><title>Pan's Labyrinth</title><year>2006</year><rating>8.2</rating></item>
+<item><title>Everything Everywhere All at Once</title><year>2022</year><rating>8.2</rating></item>
+<item><title>There Will Be Blood</title><year>2007</year><rating>8.2</rating></item>
+<item><title>The Sixth Sense</title><year>1999</year><rating>8.2</rating></item>
+<item><title>A Beautiful Mind</title><year>2001</year><rating>8.2</rating></item>
+<item><title>Monty Python and the Holy Grail</title><year>1975</year><rating>8.2</rating></item>
+<item><title>The Truman Show</title><year>1998</year><rating>8.2</rating></item>
+<item><title>Yojimbo</title><year>1961</year><rating>8.1</rating></item>
+<item><title>The Treasure of the Sierra Madre</title><year>1948</year><rating>8.1</rating></item>
+<item><title>Shutter Island</title><year>2010</year><rating>8.1</rating></item>
+<item><title>Rashomon</title><year>1950</year><rating>8.1</rating></item>
+<item><title>The Great Escape</title><year>1963</year><rating>8.1</rating></item>
+<item><title>Jurassic Park</title><year>1993</year><rating>8.1</rating></item>
+<item><title>Kill Bill: Vol. 1</title><year>2003</year><rating>8.1</rating></item>
+<item><title>No Country for Old Men</title><year>2007</year><rating>8.1</rating></item>
+<item><title>Finding Nemo</title><year>2003</year><rating>8.1</rating></item>
+<item><title>The Elephant Man</title><year>1980</year><rating>8.1</rating></item>
+<item><title>Raging Bull</title><year>1980</year><rating>8.1</rating></item>
+<item><title>Chinatown</title><year>1974</year><rating>8.1</rating></item>
+<item><title>Gone with the Wind</title><year>1939</year><rating>8.1</rating></item>
+<item><title>V for Vendetta</title><year>2005</year><rating>8.1</rating></item>
+<item><title>The Thing</title><year>1982</year><rating>8.1</rating></item>
+<item><title>Inside Out</title><year>2015</year><rating>8.1</rating></item>
+<item><title>Lock, Stock and Two Smoking Barrels</title><year>1998</year><rating>8.1</rating></item>
+<item><title>Dial M for Murder</title><year>1954</year><rating>8.1</rating></item>
+<item><title>The Secret in Their Eyes</title><year>2009</year><rating>8.1</rating></item>
+<item><title>Howl's Moving Castle</title><year>2004</year><rating>8.1</rating></item>
+<item><title>The Bridge on the River Kwai</title><year>1957</year><rating>8.1</rating></item>
+<item><title>Three Billboards Outside Ebbing, Missouri</title><year>2017</year><rating>8.1</rating></item>
+<item><title>Trainspotting</title><year>1996</year><rating>8.1</rating></item>
+<item><title>Gran Torino</title><year>2008</year><rating>8.1</rating></item>
+<item><title>Warrior</title><year>2011</year><rating>8.1</rating></item>
+<item><title>Fargo</title><year>1996</year><rating>8.1</rating></item>
+<item><title>Prisoners</title><year>2013</year><rating>8.1</rating></item>
+<item><title>My Neighbor Totoro</title><year>1988</year><rating>8.1</rating></item>
+<item><title>Million Dollar Baby</title><year>2004</year><rating>8.1</rating></item>
+<item><title>The Gold Rush</title><year>1925</year><rating>8.1</rating></item>
+<item><title>Blade Runner</title><year>1982</year><rating>8.1</rating></item>
+<item><title>Catch Me If You Can</title><year>2002</year><rating>8.1</rating></item>
+<item><title>On the Waterfront</title><year>1954</year><rating>8.1</rating></item>
+<item><title>The Third Man</title><year>1949</year><rating>8.1</rating></item>
+<item><title>Children of Heaven</title><year>1997</year><rating>8.1</rating></item>
+<item><title>Ben-Hur</title><year>1959</year><rating>8.1</rating></item>
+<item><title>12 Years a Slave</title><year>2013</year><rating>8.1</rating></item>
+<item><title>The General</title><year>1926</year><rating>8.1</rating></item>
+<item><title>Wild Strawberries</title><year>1957</year><rating>8.1</rating></item>
+<item><title>Gone Girl</title><year>2014</year><rating>8.1</rating></item>
+<item><title>Before Sunrise</title><year>1995</year><rating>8.1</rating></item>
+<item><title>Harry Potter and the Deathly Hallows: Part 2</title><year>2011</year><rating>8.1</rating></item>
+<item><title>The Deer Hunter</title><year>1978</year><rating>8.1</rating></item>
+<item><title>In the Name of the Father</title><year>1993</year><rating>8.1</rating></item>
+<item><title>The Grand Budapest Hotel</title><year>2014</year><rating>8.1</rating></item>
+<item><title>Mr. Smith Goes to Washington</title><year>1939</year><rating>8.1</rating></item>
+<item><title>Barry Lyndon</title><year>1975</year><rating>8.1</rating></item>
+<item><title>The Wages of Fear</title><year>1953</year><rating>8.1</rating></item>
+<item><title>Sherlock Jr.</title><year>1924</year><rating>8.1</rating></item>
+<item><title>Memories of Murder</title><year>2003</year><rating>8.1</rating></item>
+<item><title>Klaus</title><year>2019</year><rating>8.1</rating></item>
+<item><title>Hacksaw Ridge</title><year>2016</year><rating>8.1</rating></item>
+<item><title>Room</title><year>2015</year><rating>8.1</rating></item>
+<item><title>The Seventh Seal</title><year>1957</year><rating>8.1</rating></item>
+<item><title>Wild Tales</title><year>2014</year><rating>8.1</rating></item>
+<item><title>The Big Lebowski</title><year>1998</year><rating>8.1</rating></item>
+<item><title>Mad Max: Fury Road</title><year>2015</year><rating>8.1</rating></item>
+<item><title>How to Train Your Dragon</title><year>2010</year><rating>8.1</rating></item>
+<item><title>Mary and Max</title><year>2009</year><rating>8.1</rating></item>
+<item><title>Monsters, Inc.</title><year>2001</year><rating>8.1</rating></item>
+<item><title>Jaws</title><year>1975</year><rating>8.1</rating></item>
+<item><title>The Passion of Joan of Arc</title><year>1928</year><rating>8.1</rating></item>
+<item><title>Hotel Rwanda</title><year>2004</year><rating>8.1</rating></item>
+<item><title>Dead Poets Society</title><year>1989</year><rating>8.1</rating></item>
+<item><title>Tokyo Story</title><year>1953</year><rating>8.1</rating></item>
+<item><title>Pather Panchali</title><year>1955</year><rating>8.1</rating></item>
+<item><title>Rocky</title><year>1976</year><rating>8.0</rating></item>
+<item><title>Platoon</title><year>1986</year><rating>8.0</rating></item>
+<item><title>Ford v Ferrari</title><year>2019</year><rating>8.0</rating></item>
+<item><title>Stand by Me</title><year>1986</year><rating>8.0</rating></item>
+<item><title>The Terminator</title><year>1984</year><rating>8.0</rating></item>
+<item><title>Spotlight</title><year>2015</year><rating>8.0</rating></item>
+<item><title>Rush</title><year>2013</year><rating>8.0</rating></item>
+<item><title>Into the Wild</title><year>2007</year><rating>8.0</rating></item>
+<item><title>Network</title><year>1976</year><rating>8.0</rating></item>
+<item><title>Logan</title><year>2017</year><rating>8.0</rating></item>
+<item><title>The Wizard of Oz</title><year>1939</year><rating>8.0</rating></item>
+<item><title>Ratatouille</title><year>2007</year><rating>8.0</rating></item>
+<item><title>Groundhog Day</title><year>1993</year><rating>8.0</rating></item>
+<item><title>Before Sunset</title><year>2004</year><rating>8.0</rating></item>
+<item><title>The Exorcist</title><year>1973</year><rating>8.0</rating></item>
+<item><title>The Best Years of Our Lives</title><year>1946</year><rating>8.0</rating></item>
+<item><title>The Incredibles</title><year>2004</year><rating>8.0</rating></item>
+<item><title>To Be or Not to Be</title><year>1942</year><rating>8.0</rating></item>
+<item><title>Rebecca</title><year>1940</year><rating>8.0</rating></item>
+<item><title>The Battle of Algiers</title><year>1966</year><rating>8.0</rating></item>
+<item><title>The Grapes of Wrath</title><year>1940</year><rating>8.0</rating></item>
+<item><title>Hachi: A Dog's Tale</title><year>2009</year><rating>8.0</rating></item>
+<item><title>Cool Hand Luke</title><year>1967</year><rating>8.0</rating></item>
+<item><title>Amores perros</title><year>2000</year><rating>8.0</rating></item>
+<item><title>Pirates of the Caribbean: The Curse of the Black Pearl</title><year>2003</year><rating>8.0</rating></item>
+<item><title>La Haine</title><year>1995</year><rating>8.0</rating></item>
+<item><title>The 400 Blows</title><year>1959</year><rating>8.0</rating></item>
+<item><title>Persona</title><year>1966</year><rating>8.0</rating></item>
+<item><title>My Father and My Son</title><year>2005</year><rating>8.0</rating></item>
+<item><title>Life of Brian</title><year>1979</year><rating>8.0</rating></item>
+<item><title>It Happened One Night</title><year>1934</year><rating>8.0</rating></item>
+<item><title>The Sound of Music</title><year>1965</year><rating>8.0</rating></item>
+<item><title>Dersu Uzala</title><year>1975</year><rating>8.0</rating></item>
+<item><title>The Handmaiden</title><year>2016</year><rating>8.0</rating></item>
+<item><title>Aladdin</title><year>1992</year><rating>8.0</rating></item>
+<item><title>Jai Bhim</title><year>2021</year><rating>8.0</rating></item>
+<item><title>Gandhi</title><year>1982</year><rating>8.0</rating></item>
+<item><title>The Help</title><year>2011</year><rating>8.0</rating></item>
+<item><title>Beauty and the Beast</title><year>1991</year><rating>8.0</rating></item>
+</items>
