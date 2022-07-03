@@ -1,0 +1,685 @@
+link,name
+https://www.worldometers.info/coronavirus/['country/us/'],USA
+https://www.worldometers.info/coronavirus/['country/india/'],India
+https://www.worldometers.info/coronavirus/['country/brazil/'],Brazil
+https://www.worldometers.info/coronavirus/['country/france/'],France
+https://www.worldometers.info/coronavirus/['country/germany/'],Germany
+https://www.worldometers.info/coronavirus/['country/uk/'],UK
+https://www.worldometers.info/coronavirus/['country/italy/'],Italy
+https://www.worldometers.info/coronavirus/['country/russia/'],Russia
+https://www.worldometers.info/coronavirus/['country/south-korea/'],S. Korea
+https://www.worldometers.info/coronavirus/['country/turkey/'],Turkey
+https://www.worldometers.info/coronavirus/['country/spain/'],Spain
+https://www.worldometers.info/coronavirus/['country/viet-nam/'],Vietnam
+https://www.worldometers.info/coronavirus/['country/japan/'],Japan
+https://www.worldometers.info/coronavirus/['country/argentina/'],Argentina
+https://www.worldometers.info/coronavirus/['country/australia/'],Australia
+https://www.worldometers.info/coronavirus/['country/netherlands/'],Netherlands
+https://www.worldometers.info/coronavirus/['country/iran/'],Iran
+https://www.worldometers.info/coronavirus/['country/colombia/'],Colombia
+https://www.worldometers.info/coronavirus/['country/indonesia/'],Indonesia
+https://www.worldometers.info/coronavirus/['country/mexico/'],Mexico
+https://www.worldometers.info/coronavirus/['country/poland/'],Poland
+https://www.worldometers.info/coronavirus/['country/portugal/'],Portugal
+https://www.worldometers.info/coronavirus/['country/ukraine/'],Ukraine
+https://www.worldometers.info/coronavirus/['country/north-korea/'],DPRK
+https://www.worldometers.info/coronavirus/['country/malaysia/'],Malaysia
+https://www.worldometers.info/coronavirus/['country/thailand/'],Thailand
+https://www.worldometers.info/coronavirus/['country/austria/'],Austria
+https://www.worldometers.info/coronavirus/['country/israel/'],Israel
+https://www.worldometers.info/coronavirus/['country/belgium/'],Belgium
+https://www.worldometers.info/coronavirus/['country/chile/'],Chile
+https://www.worldometers.info/coronavirus/['country/south-africa/'],South Africa
+https://www.worldometers.info/coronavirus/['country/canada/'],Canada
+https://www.worldometers.info/coronavirus/['country/czech-republic/'],Czechia
+https://www.worldometers.info/coronavirus/['country/taiwan/'],Taiwan
+https://www.worldometers.info/coronavirus/['country/switzerland/'],Switzerland
+https://www.worldometers.info/coronavirus/['country/greece/'],Greece
+https://www.worldometers.info/coronavirus/['country/philippines/'],Philippines
+https://www.worldometers.info/coronavirus/['country/peru/'],Peru
+https://www.worldometers.info/coronavirus/['country/denmark/'],Denmark
+https://www.worldometers.info/coronavirus/['country/romania/'],Romania
+https://www.worldometers.info/coronavirus/['country/sweden/'],Sweden
+https://www.worldometers.info/coronavirus/['country/iraq/'],Iraq
+https://www.worldometers.info/coronavirus/['country/serbia/'],Serbia
+https://www.worldometers.info/coronavirus/['country/bangladesh/'],Bangladesh
+https://www.worldometers.info/coronavirus/['country/hungary/'],Hungary
+https://www.worldometers.info/coronavirus/['country/slovakia/'],Slovakia
+https://www.worldometers.info/coronavirus/['country/jordan/'],Jordan
+https://www.worldometers.info/coronavirus/['country/georgia/'],Georgia
+https://www.worldometers.info/coronavirus/['country/ireland/'],Ireland
+https://www.worldometers.info/coronavirus/['country/pakistan/'],Pakistan
+https://www.worldometers.info/coronavirus/['country/singapore/'],Singapore
+https://www.worldometers.info/coronavirus/['country/norway/'],Norway
+https://www.worldometers.info/coronavirus/['country/new-zealand/'],New Zealand
+https://www.worldometers.info/coronavirus/['country/kazakhstan/'],Kazakhstan
+https://www.worldometers.info/coronavirus/['country/china-hong-kong-sar/'],Hong Kong
+https://www.worldometers.info/coronavirus/['country/morocco/'],Morocco
+https://www.worldometers.info/coronavirus/['country/bulgaria/'],Bulgaria
+https://www.worldometers.info/coronavirus/['country/croatia/'],Croatia
+https://www.worldometers.info/coronavirus/['country/finland/'],Finland
+https://www.worldometers.info/coronavirus/['country/lebanon/'],Lebanon
+https://www.worldometers.info/coronavirus/['country/cuba/'],Cuba
+https://www.worldometers.info/coronavirus/['country/lithuania/'],Lithuania
+https://www.worldometers.info/coronavirus/['country/tunisia/'],Tunisia
+https://www.worldometers.info/coronavirus/['country/slovenia/'],Slovenia
+https://www.worldometers.info/coronavirus/['country/belarus/'],Belarus
+https://www.worldometers.info/coronavirus/['country/nepal/'],Nepal
+https://www.worldometers.info/coronavirus/['country/uruguay/'],Uruguay
+https://www.worldometers.info/coronavirus/['country/united-arab-emirates/'],UAE
+https://www.worldometers.info/coronavirus/['country/mongolia/'],Mongolia
+https://www.worldometers.info/coronavirus/['country/bolivia/'],Bolivia
+https://www.worldometers.info/coronavirus/['country/panama/'],Panama
+https://www.worldometers.info/coronavirus/['country/guatemala/'],Guatemala
+https://www.worldometers.info/coronavirus/['country/ecuador/'],Ecuador
+https://www.worldometers.info/coronavirus/['country/costa-rica/'],Costa Rica
+https://www.worldometers.info/coronavirus/['country/latvia/'],Latvia
+https://www.worldometers.info/coronavirus/['country/saudi-arabia/'],Saudi Arabia
+https://www.worldometers.info/coronavirus/['country/azerbaijan/'],Azerbaijan
+https://www.worldometers.info/coronavirus/['country/sri-lanka/'],Sri Lanka
+https://www.worldometers.info/coronavirus/['country/paraguay/'],Paraguay
+https://www.worldometers.info/coronavirus/['country/kuwait/'],Kuwait
+https://www.worldometers.info/coronavirus/['country/bahrain/'],Bahrain
+https://www.worldometers.info/coronavirus/['country/myanmar/'],Myanmar
+https://www.worldometers.info/coronavirus/['country/dominican-republic/'],Dominican Republic
+https://www.worldometers.info/coronavirus/['country/state-of-palestine/'],Palestine
+https://www.worldometers.info/coronavirus/['country/estonia/'],Estonia
+https://www.worldometers.info/coronavirus/['country/venezuela/'],Venezuela
+https://www.worldometers.info/coronavirus/['country/moldova/'],Moldova
+https://www.worldometers.info/coronavirus/['country/egypt/'],Egypt
+https://www.worldometers.info/coronavirus/['country/cyprus/'],Cyprus
+https://www.worldometers.info/coronavirus/['country/libya/'],Libya
+https://www.worldometers.info/coronavirus/['country/ethiopia/'],Ethiopia
+https://www.worldometers.info/coronavirus/['country/honduras/'],Honduras
+https://www.worldometers.info/coronavirus/['country/armenia/'],Armenia
+https://www.worldometers.info/coronavirus/['country/reunion/'],Réunion
+https://www.worldometers.info/coronavirus/['country/oman/'],Oman
+https://www.worldometers.info/coronavirus/['country/qatar/'],Qatar
+https://www.worldometers.info/coronavirus/['country/bosnia-and-herzegovina/'],Bosnia and Herzegovina
+https://www.worldometers.info/coronavirus/['country/kenya/'],Kenya
+https://www.worldometers.info/coronavirus/['country/zambia/'],Zambia
+https://www.worldometers.info/coronavirus/['country/botswana/'],Botswana
+https://www.worldometers.info/coronavirus/['country/macedonia/'],North Macedonia
+https://www.worldometers.info/coronavirus/['country/albania/'],Albania
+https://www.worldometers.info/coronavirus/['country/algeria/'],Algeria
+https://www.worldometers.info/coronavirus/['country/luxembourg/'],Luxembourg
+https://www.worldometers.info/coronavirus/['country/nigeria/'],Nigeria
+https://www.worldometers.info/coronavirus/['country/zimbabwe/'],Zimbabwe
+https://www.worldometers.info/coronavirus/['country/uzbekistan/'],Uzbekistan
+https://www.worldometers.info/coronavirus/['country/montenegro/'],Montenegro
+https://www.worldometers.info/coronavirus/['country/mozambique/'],Mozambique
+https://www.worldometers.info/coronavirus/['country/laos/'],Laos
+https://www.worldometers.info/coronavirus/['country/kyrgyzstan/'],Kyrgyzstan
+https://www.worldometers.info/coronavirus/['country/iceland/'],Iceland
+https://www.worldometers.info/coronavirus/['country/martinique/'],Martinique
+https://www.worldometers.info/coronavirus/['country/afghanistan/'],Afghanistan
+https://www.worldometers.info/coronavirus/['country/maldives/'],Maldives
+https://www.worldometers.info/coronavirus/['country/el-salvador/'],El Salvador
+https://www.worldometers.info/coronavirus/['country/namibia/'],Namibia
+https://www.worldometers.info/coronavirus/['country/guadeloupe/'],Guadeloupe
+https://www.worldometers.info/coronavirus/['country/uganda/'],Uganda
+https://www.worldometers.info/coronavirus/['country/trinidad-and-tobago/'],Trinidad and Tobago
+https://www.worldometers.info/coronavirus/['country/ghana/'],Ghana
+https://www.worldometers.info/coronavirus/['country/brunei-darussalam/'],Brunei 
+https://www.worldometers.info/coronavirus/['country/jamaica/'],Jamaica
+https://www.worldometers.info/coronavirus/['country/cambodia/'],Cambodia
+https://www.worldometers.info/coronavirus/['country/rwanda/'],Rwanda
+https://www.worldometers.info/coronavirus/['country/cameroon/'],Cameroon
+https://www.worldometers.info/coronavirus/['country/malta/'],Malta
+https://www.worldometers.info/coronavirus/['country/angola/'],Angola
+https://www.worldometers.info/coronavirus/['country/democratic-republic-of-the-congo/'],DRC
+https://www.worldometers.info/coronavirus/['country/french-guiana/'],French Guiana
+https://www.worldometers.info/coronavirus/['country/malawi/'],Malawi
+https://www.worldometers.info/coronavirus/['country/senegal/'],Senegal
+https://www.worldometers.info/coronavirus/['country/barbados/'],Barbados
+https://www.worldometers.info/coronavirus/['country/cote-d-ivoire/'],Ivory Coast
+https://www.worldometers.info/coronavirus/['country/channel-islands/'],Channel Islands
+https://www.worldometers.info/coronavirus/['country/suriname/'],Suriname
+https://www.worldometers.info/coronavirus/['country/french-polynesia/'],French Polynesia
+https://www.worldometers.info/coronavirus/['country/swaziland/'],Eswatini
+https://www.worldometers.info/coronavirus/['country/guyana/'],Guyana
+https://www.worldometers.info/coronavirus/['country/fiji/'],Fiji
+https://www.worldometers.info/coronavirus/['country/madagascar/'],Madagascar
+https://www.worldometers.info/coronavirus/['country/new-caledonia/'],New Caledonia
+https://www.worldometers.info/coronavirus/['country/belize/'],Belize
+https://www.worldometers.info/coronavirus/['country/sudan/'],Sudan
+https://www.worldometers.info/coronavirus/['country/cabo-verde/'],Cabo Verde
+https://www.worldometers.info/coronavirus/['country/mauritania/'],Mauritania
+https://www.worldometers.info/coronavirus/['country/bhutan/'],Bhutan
+https://www.worldometers.info/coronavirus/['country/syria/'],Syria
+https://www.worldometers.info/coronavirus/['country/gabon/'],Gabon
+https://www.worldometers.info/coronavirus/['country/seychelles/'],Seychelles
+https://www.worldometers.info/coronavirus/['country/papua-new-guinea/'],Papua New Guinea
+https://www.worldometers.info/coronavirus/['country/curacao/'],Curaçao
+https://www.worldometers.info/coronavirus/['country/andorra/'],Andorra
+https://www.worldometers.info/coronavirus/['country/burundi/'],Burundi
+https://www.worldometers.info/coronavirus/['country/aruba/'],Aruba
+https://www.worldometers.info/coronavirus/['country/mauritius/'],Mauritius
+https://www.worldometers.info/coronavirus/['country/mayotte/'],Mayotte
+https://www.worldometers.info/coronavirus/['country/togo/'],Togo
+https://www.worldometers.info/coronavirus/['country/guinea/'],Guinea
+https://www.worldometers.info/coronavirus/['country/isle-of-man/'],Isle of Man
+https://www.worldometers.info/coronavirus/['country/bahamas/'],Bahamas
+https://www.worldometers.info/coronavirus/['country/tanzania/'],Tanzania
+https://www.worldometers.info/coronavirus/['country/faeroe-islands/'],Faeroe Islands
+https://www.worldometers.info/coronavirus/['country/lesotho/'],Lesotho
+https://www.worldometers.info/coronavirus/['country/haiti/'],Haiti
+https://www.worldometers.info/coronavirus/['country/mali/'],Mali
+https://www.worldometers.info/coronavirus/['country/cayman-islands/'],Cayman Islands
+https://www.worldometers.info/coronavirus/['country/benin/'],Benin
+https://www.worldometers.info/coronavirus/['country/saint-lucia/'],Saint Lucia
+https://www.worldometers.info/coronavirus/['country/somalia/'],Somalia
+https://www.worldometers.info/coronavirus/['country/congo/'],Congo
+https://www.worldometers.info/coronavirus/['country/timor-leste/'],Timor-Leste
+https://www.worldometers.info/coronavirus/['country/solomon-islands/'],Solomon Islands
+https://www.worldometers.info/coronavirus/['country/burkina-faso/'],Burkina Faso
+https://www.worldometers.info/coronavirus/['country/gibraltar/'],Gibraltar
+https://www.worldometers.info/coronavirus/['country/nicaragua/'],Nicaragua
+https://www.worldometers.info/coronavirus/['country/grenada/'],Grenada
+https://www.worldometers.info/coronavirus/['country/san-marino/'],San Marino
+https://www.worldometers.info/coronavirus/['country/liechtenstein/'],Liechtenstein
+https://www.worldometers.info/coronavirus/['country/tajikistan/'],Tajikistan
+https://www.worldometers.info/coronavirus/['country/south-sudan/'],South Sudan
+https://www.worldometers.info/coronavirus/['country/bermuda/'],Bermuda
+https://www.worldometers.info/coronavirus/['country/equatorial-guinea/'],Equatorial Guinea
+https://www.worldometers.info/coronavirus/['country/djibouti/'],Djibouti
+https://www.worldometers.info/coronavirus/['country/samoa/'],Samoa
+https://www.worldometers.info/coronavirus/['country/dominica/'],Dominica
+https://www.worldometers.info/coronavirus/['country/central-african-republic/'],CAR
+https://www.worldometers.info/coronavirus/['country/monaco/'],Monaco
+https://www.worldometers.info/coronavirus/['country/tonga/'],Tonga
+https://www.worldometers.info/coronavirus/['country/gambia/'],Gambia
+https://www.worldometers.info/coronavirus/['country/greenland/'],Greenland
+https://www.worldometers.info/coronavirus/['country/yemen/'],Yemen
+https://www.worldometers.info/coronavirus/['country/vanuatu/'],Vanuatu
+https://www.worldometers.info/coronavirus/['country/saint-martin/'],Saint Martin
+https://www.worldometers.info/coronavirus/['country/sint-maarten/'],Sint Maarten
+https://www.worldometers.info/coronavirus/['country/caribbean-netherlands/'],Caribbean Netherlands
+https://www.worldometers.info/coronavirus/['country/eritrea/'],Eritrea
+https://www.worldometers.info/coronavirus/['country/niger/'],Niger
+https://www.worldometers.info/coronavirus/['country/antigua-and-barbuda/'],Antigua and Barbuda
+https://www.worldometers.info/coronavirus/['country/guinea-bissau/'],Guinea-Bissau
+https://www.worldometers.info/coronavirus/['country/comoros/'],Comoros
+https://www.worldometers.info/coronavirus/['country/sierra-leone/'],Sierra Leone
+https://www.worldometers.info/coronavirus/['country/liberia/'],Liberia
+https://www.worldometers.info/coronavirus/['country/chad/'],Chad
+https://www.worldometers.info/coronavirus/['country/saint-vincent-and-the-grenadines/'],St. Vincent Grenadines
+https://www.worldometers.info/coronavirus/['country/british-virgin-islands/'],British Virgin Islands
+https://www.worldometers.info/coronavirus/['country/turks-and-caicos-islands/'],Turks and Caicos
+https://www.worldometers.info/coronavirus/['country/saint-kitts-and-nevis/'],Saint Kitts and Nevis
+https://www.worldometers.info/coronavirus/['country/sao-tome-and-principe/'],Sao Tome and Principe
+https://www.worldometers.info/coronavirus/['country/cook-islands/'],Cook Islands
+https://www.worldometers.info/coronavirus/['country/palau/'],Palau
+https://www.worldometers.info/coronavirus/['country/saint-barthelemy/'],St. Barth
+https://www.worldometers.info/coronavirus/['country/nauru/'],Nauru
+https://www.worldometers.info/coronavirus/['country/anguilla/'],Anguilla
+https://www.worldometers.info/coronavirus/['country/kiribati/'],Kiribati
+https://www.worldometers.info/coronavirus/['country/saint-pierre-and-miquelon/'],Saint Pierre Miquelon
+https://www.worldometers.info/coronavirus/['country/falkland-islands-malvinas/'],Falkland Islands
+https://www.worldometers.info/coronavirus/['country/montserrat/'],Montserrat
+https://www.worldometers.info/coronavirus/['country/wallis-and-futuna-islands/'],Wallis and Futuna
+https://www.worldometers.info/coronavirus/['country/china-macao-sar/'],Macao
+https://www.worldometers.info/coronavirus/['country/micronesia/'],Micronesia
+https://www.worldometers.info/coronavirus/['country/holy-see/'],Vatican City
+https://www.worldometers.info/coronavirus/['country/marshall-islands/'],Marshall Islands
+https://www.worldometers.info/coronavirus/['country/niue/'],Niue
+https://www.worldometers.info/coronavirus/['country/western-sahara/'],Western Sahara
+https://www.worldometers.info/coronavirus/['country/tuvalu/'],Tuvalu
+https://www.worldometers.info/coronavirus/['country/saint-helena/'],Saint Helena
+https://www.worldometers.info/coronavirus/['country/china/'],China
+https://www.worldometers.info/coronavirus/['country/china/'],China
+https://www.worldometers.info/coronavirus/['country/us/'],USA
+https://www.worldometers.info/coronavirus/['country/india/'],India
+https://www.worldometers.info/coronavirus/['country/brazil/'],Brazil
+https://www.worldometers.info/coronavirus/['country/france/'],France
+https://www.worldometers.info/coronavirus/['country/germany/'],Germany
+https://www.worldometers.info/coronavirus/['country/uk/'],UK
+https://www.worldometers.info/coronavirus/['country/italy/'],Italy
+https://www.worldometers.info/coronavirus/['country/russia/'],Russia
+https://www.worldometers.info/coronavirus/['country/south-korea/'],S. Korea
+https://www.worldometers.info/coronavirus/['country/turkey/'],Turkey
+https://www.worldometers.info/coronavirus/['country/spain/'],Spain
+https://www.worldometers.info/coronavirus/['country/viet-nam/'],Vietnam
+https://www.worldometers.info/coronavirus/['country/argentina/'],Argentina
+https://www.worldometers.info/coronavirus/['country/japan/'],Japan
+https://www.worldometers.info/coronavirus/['country/australia/'],Australia
+https://www.worldometers.info/coronavirus/['country/netherlands/'],Netherlands
+https://www.worldometers.info/coronavirus/['country/iran/'],Iran
+https://www.worldometers.info/coronavirus/['country/colombia/'],Colombia
+https://www.worldometers.info/coronavirus/['country/indonesia/'],Indonesia
+https://www.worldometers.info/coronavirus/['country/mexico/'],Mexico
+https://www.worldometers.info/coronavirus/['country/poland/'],Poland
+https://www.worldometers.info/coronavirus/['country/portugal/'],Portugal
+https://www.worldometers.info/coronavirus/['country/ukraine/'],Ukraine
+https://www.worldometers.info/coronavirus/['country/north-korea/'],DPRK
+https://www.worldometers.info/coronavirus/['country/malaysia/'],Malaysia
+https://www.worldometers.info/coronavirus/['country/thailand/'],Thailand
+https://www.worldometers.info/coronavirus/['country/austria/'],Austria
+https://www.worldometers.info/coronavirus/['country/israel/'],Israel
+https://www.worldometers.info/coronavirus/['country/belgium/'],Belgium
+https://www.worldometers.info/coronavirus/['country/chile/'],Chile
+https://www.worldometers.info/coronavirus/['country/south-africa/'],South Africa
+https://www.worldometers.info/coronavirus/['country/canada/'],Canada
+https://www.worldometers.info/coronavirus/['country/czech-republic/'],Czechia
+https://www.worldometers.info/coronavirus/['country/taiwan/'],Taiwan
+https://www.worldometers.info/coronavirus/['country/switzerland/'],Switzerland
+https://www.worldometers.info/coronavirus/['country/greece/'],Greece
+https://www.worldometers.info/coronavirus/['country/philippines/'],Philippines
+https://www.worldometers.info/coronavirus/['country/peru/'],Peru
+https://www.worldometers.info/coronavirus/['country/denmark/'],Denmark
+https://www.worldometers.info/coronavirus/['country/romania/'],Romania
+https://www.worldometers.info/coronavirus/['country/sweden/'],Sweden
+https://www.worldometers.info/coronavirus/['country/iraq/'],Iraq
+https://www.worldometers.info/coronavirus/['country/serbia/'],Serbia
+https://www.worldometers.info/coronavirus/['country/bangladesh/'],Bangladesh
+https://www.worldometers.info/coronavirus/['country/hungary/'],Hungary
+https://www.worldometers.info/coronavirus/['country/slovakia/'],Slovakia
+https://www.worldometers.info/coronavirus/['country/jordan/'],Jordan
+https://www.worldometers.info/coronavirus/['country/georgia/'],Georgia
+https://www.worldometers.info/coronavirus/['country/ireland/'],Ireland
+https://www.worldometers.info/coronavirus/['country/pakistan/'],Pakistan
+https://www.worldometers.info/coronavirus/['country/singapore/'],Singapore
+https://www.worldometers.info/coronavirus/['country/norway/'],Norway
+https://www.worldometers.info/coronavirus/['country/new-zealand/'],New Zealand
+https://www.worldometers.info/coronavirus/['country/kazakhstan/'],Kazakhstan
+https://www.worldometers.info/coronavirus/['country/china-hong-kong-sar/'],Hong Kong
+https://www.worldometers.info/coronavirus/['country/morocco/'],Morocco
+https://www.worldometers.info/coronavirus/['country/bulgaria/'],Bulgaria
+https://www.worldometers.info/coronavirus/['country/croatia/'],Croatia
+https://www.worldometers.info/coronavirus/['country/finland/'],Finland
+https://www.worldometers.info/coronavirus/['country/lebanon/'],Lebanon
+https://www.worldometers.info/coronavirus/['country/cuba/'],Cuba
+https://www.worldometers.info/coronavirus/['country/lithuania/'],Lithuania
+https://www.worldometers.info/coronavirus/['country/tunisia/'],Tunisia
+https://www.worldometers.info/coronavirus/['country/slovenia/'],Slovenia
+https://www.worldometers.info/coronavirus/['country/belarus/'],Belarus
+https://www.worldometers.info/coronavirus/['country/nepal/'],Nepal
+https://www.worldometers.info/coronavirus/['country/uruguay/'],Uruguay
+https://www.worldometers.info/coronavirus/['country/united-arab-emirates/'],UAE
+https://www.worldometers.info/coronavirus/['country/mongolia/'],Mongolia
+https://www.worldometers.info/coronavirus/['country/bolivia/'],Bolivia
+https://www.worldometers.info/coronavirus/['country/panama/'],Panama
+https://www.worldometers.info/coronavirus/['country/guatemala/'],Guatemala
+https://www.worldometers.info/coronavirus/['country/ecuador/'],Ecuador
+https://www.worldometers.info/coronavirus/['country/costa-rica/'],Costa Rica
+https://www.worldometers.info/coronavirus/['country/latvia/'],Latvia
+https://www.worldometers.info/coronavirus/['country/saudi-arabia/'],Saudi Arabia
+https://www.worldometers.info/coronavirus/['country/azerbaijan/'],Azerbaijan
+https://www.worldometers.info/coronavirus/['country/sri-lanka/'],Sri Lanka
+https://www.worldometers.info/coronavirus/['country/paraguay/'],Paraguay
+https://www.worldometers.info/coronavirus/['country/kuwait/'],Kuwait
+https://www.worldometers.info/coronavirus/['country/bahrain/'],Bahrain
+https://www.worldometers.info/coronavirus/['country/myanmar/'],Myanmar
+https://www.worldometers.info/coronavirus/['country/dominican-republic/'],Dominican Republic
+https://www.worldometers.info/coronavirus/['country/state-of-palestine/'],Palestine
+https://www.worldometers.info/coronavirus/['country/estonia/'],Estonia
+https://www.worldometers.info/coronavirus/['country/venezuela/'],Venezuela
+https://www.worldometers.info/coronavirus/['country/moldova/'],Moldova
+https://www.worldometers.info/coronavirus/['country/egypt/'],Egypt
+https://www.worldometers.info/coronavirus/['country/cyprus/'],Cyprus
+https://www.worldometers.info/coronavirus/['country/libya/'],Libya
+https://www.worldometers.info/coronavirus/['country/ethiopia/'],Ethiopia
+https://www.worldometers.info/coronavirus/['country/honduras/'],Honduras
+https://www.worldometers.info/coronavirus/['country/armenia/'],Armenia
+https://www.worldometers.info/coronavirus/['country/reunion/'],Réunion
+https://www.worldometers.info/coronavirus/['country/oman/'],Oman
+https://www.worldometers.info/coronavirus/['country/qatar/'],Qatar
+https://www.worldometers.info/coronavirus/['country/bosnia-and-herzegovina/'],Bosnia and Herzegovina
+https://www.worldometers.info/coronavirus/['country/kenya/'],Kenya
+https://www.worldometers.info/coronavirus/['country/zambia/'],Zambia
+https://www.worldometers.info/coronavirus/['country/botswana/'],Botswana
+https://www.worldometers.info/coronavirus/['country/macedonia/'],North Macedonia
+https://www.worldometers.info/coronavirus/['country/albania/'],Albania
+https://www.worldometers.info/coronavirus/['country/algeria/'],Algeria
+https://www.worldometers.info/coronavirus/['country/luxembourg/'],Luxembourg
+https://www.worldometers.info/coronavirus/['country/nigeria/'],Nigeria
+https://www.worldometers.info/coronavirus/['country/zimbabwe/'],Zimbabwe
+https://www.worldometers.info/coronavirus/['country/uzbekistan/'],Uzbekistan
+https://www.worldometers.info/coronavirus/['country/montenegro/'],Montenegro
+https://www.worldometers.info/coronavirus/['country/mozambique/'],Mozambique
+https://www.worldometers.info/coronavirus/['country/laos/'],Laos
+https://www.worldometers.info/coronavirus/['country/kyrgyzstan/'],Kyrgyzstan
+https://www.worldometers.info/coronavirus/['country/iceland/'],Iceland
+https://www.worldometers.info/coronavirus/['country/martinique/'],Martinique
+https://www.worldometers.info/coronavirus/['country/afghanistan/'],Afghanistan
+https://www.worldometers.info/coronavirus/['country/maldives/'],Maldives
+https://www.worldometers.info/coronavirus/['country/el-salvador/'],El Salvador
+https://www.worldometers.info/coronavirus/['country/namibia/'],Namibia
+https://www.worldometers.info/coronavirus/['country/guadeloupe/'],Guadeloupe
+https://www.worldometers.info/coronavirus/['country/uganda/'],Uganda
+https://www.worldometers.info/coronavirus/['country/trinidad-and-tobago/'],Trinidad and Tobago
+https://www.worldometers.info/coronavirus/['country/ghana/'],Ghana
+https://www.worldometers.info/coronavirus/['country/brunei-darussalam/'],Brunei 
+https://www.worldometers.info/coronavirus/['country/jamaica/'],Jamaica
+https://www.worldometers.info/coronavirus/['country/cambodia/'],Cambodia
+https://www.worldometers.info/coronavirus/['country/rwanda/'],Rwanda
+https://www.worldometers.info/coronavirus/['country/cameroon/'],Cameroon
+https://www.worldometers.info/coronavirus/['country/malta/'],Malta
+https://www.worldometers.info/coronavirus/['country/angola/'],Angola
+https://www.worldometers.info/coronavirus/['country/democratic-republic-of-the-congo/'],DRC
+https://www.worldometers.info/coronavirus/['country/french-guiana/'],French Guiana
+https://www.worldometers.info/coronavirus/['country/malawi/'],Malawi
+https://www.worldometers.info/coronavirus/['country/senegal/'],Senegal
+https://www.worldometers.info/coronavirus/['country/barbados/'],Barbados
+https://www.worldometers.info/coronavirus/['country/cote-d-ivoire/'],Ivory Coast
+https://www.worldometers.info/coronavirus/['country/channel-islands/'],Channel Islands
+https://www.worldometers.info/coronavirus/['country/suriname/'],Suriname
+https://www.worldometers.info/coronavirus/['country/french-polynesia/'],French Polynesia
+https://www.worldometers.info/coronavirus/['country/swaziland/'],Eswatini
+https://www.worldometers.info/coronavirus/['country/guyana/'],Guyana
+https://www.worldometers.info/coronavirus/['country/fiji/'],Fiji
+https://www.worldometers.info/coronavirus/['country/madagascar/'],Madagascar
+https://www.worldometers.info/coronavirus/['country/new-caledonia/'],New Caledonia
+https://www.worldometers.info/coronavirus/['country/belize/'],Belize
+https://www.worldometers.info/coronavirus/['country/sudan/'],Sudan
+https://www.worldometers.info/coronavirus/['country/cabo-verde/'],Cabo Verde
+https://www.worldometers.info/coronavirus/['country/mauritania/'],Mauritania
+https://www.worldometers.info/coronavirus/['country/bhutan/'],Bhutan
+https://www.worldometers.info/coronavirus/['country/syria/'],Syria
+https://www.worldometers.info/coronavirus/['country/gabon/'],Gabon
+https://www.worldometers.info/coronavirus/['country/seychelles/'],Seychelles
+https://www.worldometers.info/coronavirus/['country/papua-new-guinea/'],Papua New Guinea
+https://www.worldometers.info/coronavirus/['country/curacao/'],Curaçao
+https://www.worldometers.info/coronavirus/['country/andorra/'],Andorra
+https://www.worldometers.info/coronavirus/['country/burundi/'],Burundi
+https://www.worldometers.info/coronavirus/['country/aruba/'],Aruba
+https://www.worldometers.info/coronavirus/['country/mauritius/'],Mauritius
+https://www.worldometers.info/coronavirus/['country/mayotte/'],Mayotte
+https://www.worldometers.info/coronavirus/['country/togo/'],Togo
+https://www.worldometers.info/coronavirus/['country/guinea/'],Guinea
+https://www.worldometers.info/coronavirus/['country/isle-of-man/'],Isle of Man
+https://www.worldometers.info/coronavirus/['country/bahamas/'],Bahamas
+https://www.worldometers.info/coronavirus/['country/tanzania/'],Tanzania
+https://www.worldometers.info/coronavirus/['country/faeroe-islands/'],Faeroe Islands
+https://www.worldometers.info/coronavirus/['country/lesotho/'],Lesotho
+https://www.worldometers.info/coronavirus/['country/haiti/'],Haiti
+https://www.worldometers.info/coronavirus/['country/mali/'],Mali
+https://www.worldometers.info/coronavirus/['country/cayman-islands/'],Cayman Islands
+https://www.worldometers.info/coronavirus/['country/benin/'],Benin
+https://www.worldometers.info/coronavirus/['country/saint-lucia/'],Saint Lucia
+https://www.worldometers.info/coronavirus/['country/somalia/'],Somalia
+https://www.worldometers.info/coronavirus/['country/congo/'],Congo
+https://www.worldometers.info/coronavirus/['country/timor-leste/'],Timor-Leste
+https://www.worldometers.info/coronavirus/['country/solomon-islands/'],Solomon Islands
+https://www.worldometers.info/coronavirus/['country/burkina-faso/'],Burkina Faso
+https://www.worldometers.info/coronavirus/['country/gibraltar/'],Gibraltar
+https://www.worldometers.info/coronavirus/['country/nicaragua/'],Nicaragua
+https://www.worldometers.info/coronavirus/['country/grenada/'],Grenada
+https://www.worldometers.info/coronavirus/['country/san-marino/'],San Marino
+https://www.worldometers.info/coronavirus/['country/liechtenstein/'],Liechtenstein
+https://www.worldometers.info/coronavirus/['country/tajikistan/'],Tajikistan
+https://www.worldometers.info/coronavirus/['country/south-sudan/'],South Sudan
+https://www.worldometers.info/coronavirus/['country/bermuda/'],Bermuda
+https://www.worldometers.info/coronavirus/['country/equatorial-guinea/'],Equatorial Guinea
+https://www.worldometers.info/coronavirus/['country/djibouti/'],Djibouti
+https://www.worldometers.info/coronavirus/['country/samoa/'],Samoa
+https://www.worldometers.info/coronavirus/['country/dominica/'],Dominica
+https://www.worldometers.info/coronavirus/['country/central-african-republic/'],CAR
+https://www.worldometers.info/coronavirus/['country/monaco/'],Monaco
+https://www.worldometers.info/coronavirus/['country/tonga/'],Tonga
+https://www.worldometers.info/coronavirus/['country/gambia/'],Gambia
+https://www.worldometers.info/coronavirus/['country/greenland/'],Greenland
+https://www.worldometers.info/coronavirus/['country/yemen/'],Yemen
+https://www.worldometers.info/coronavirus/['country/vanuatu/'],Vanuatu
+https://www.worldometers.info/coronavirus/['country/saint-martin/'],Saint Martin
+https://www.worldometers.info/coronavirus/['country/sint-maarten/'],Sint Maarten
+https://www.worldometers.info/coronavirus/['country/caribbean-netherlands/'],Caribbean Netherlands
+https://www.worldometers.info/coronavirus/['country/eritrea/'],Eritrea
+https://www.worldometers.info/coronavirus/['country/niger/'],Niger
+https://www.worldometers.info/coronavirus/['country/antigua-and-barbuda/'],Antigua and Barbuda
+https://www.worldometers.info/coronavirus/['country/guinea-bissau/'],Guinea-Bissau
+https://www.worldometers.info/coronavirus/['country/comoros/'],Comoros
+https://www.worldometers.info/coronavirus/['country/sierra-leone/'],Sierra Leone
+https://www.worldometers.info/coronavirus/['country/liberia/'],Liberia
+https://www.worldometers.info/coronavirus/['country/chad/'],Chad
+https://www.worldometers.info/coronavirus/['country/saint-vincent-and-the-grenadines/'],St. Vincent Grenadines
+https://www.worldometers.info/coronavirus/['country/british-virgin-islands/'],British Virgin Islands
+https://www.worldometers.info/coronavirus/['country/turks-and-caicos-islands/'],Turks and Caicos
+https://www.worldometers.info/coronavirus/['country/saint-kitts-and-nevis/'],Saint Kitts and Nevis
+https://www.worldometers.info/coronavirus/['country/sao-tome-and-principe/'],Sao Tome and Principe
+https://www.worldometers.info/coronavirus/['country/cook-islands/'],Cook Islands
+https://www.worldometers.info/coronavirus/['country/palau/'],Palau
+https://www.worldometers.info/coronavirus/['country/saint-barthelemy/'],St. Barth
+https://www.worldometers.info/coronavirus/['country/nauru/'],Nauru
+https://www.worldometers.info/coronavirus/['country/anguilla/'],Anguilla
+https://www.worldometers.info/coronavirus/['country/kiribati/'],Kiribati
+https://www.worldometers.info/coronavirus/['country/saint-pierre-and-miquelon/'],Saint Pierre Miquelon
+https://www.worldometers.info/coronavirus/['country/falkland-islands-malvinas/'],Falkland Islands
+https://www.worldometers.info/coronavirus/['country/montserrat/'],Montserrat
+https://www.worldometers.info/coronavirus/['country/wallis-and-futuna-islands/'],Wallis and Futuna
+https://www.worldometers.info/coronavirus/['country/china-macao-sar/'],Macao
+https://www.worldometers.info/coronavirus/['country/micronesia/'],Micronesia
+https://www.worldometers.info/coronavirus/['country/holy-see/'],Vatican City
+https://www.worldometers.info/coronavirus/['country/marshall-islands/'],Marshall Islands
+https://www.worldometers.info/coronavirus/['country/niue/'],Niue
+https://www.worldometers.info/coronavirus/['country/western-sahara/'],Western Sahara
+https://www.worldometers.info/coronavirus/['country/tuvalu/'],Tuvalu
+https://www.worldometers.info/coronavirus/['country/saint-helena/'],Saint Helena
+https://www.worldometers.info/coronavirus/['country/china/'],China
+https://www.worldometers.info/coronavirus/['country/us/'],USA
+https://www.worldometers.info/coronavirus/['country/india/'],India
+https://www.worldometers.info/coronavirus/['country/brazil/'],Brazil
+https://www.worldometers.info/coronavirus/['country/france/'],France
+https://www.worldometers.info/coronavirus/['country/germany/'],Germany
+https://www.worldometers.info/coronavirus/['country/uk/'],UK
+https://www.worldometers.info/coronavirus/['country/italy/'],Italy
+https://www.worldometers.info/coronavirus/['country/russia/'],Russia
+https://www.worldometers.info/coronavirus/['country/south-korea/'],S. Korea
+https://www.worldometers.info/coronavirus/['country/turkey/'],Turkey
+https://www.worldometers.info/coronavirus/['country/spain/'],Spain
+https://www.worldometers.info/coronavirus/['country/viet-nam/'],Vietnam
+https://www.worldometers.info/coronavirus/['country/argentina/'],Argentina
+https://www.worldometers.info/coronavirus/['country/japan/'],Japan
+https://www.worldometers.info/coronavirus/['country/netherlands/'],Netherlands
+https://www.worldometers.info/coronavirus/['country/australia/'],Australia
+https://www.worldometers.info/coronavirus/['country/iran/'],Iran
+https://www.worldometers.info/coronavirus/['country/colombia/'],Colombia
+https://www.worldometers.info/coronavirus/['country/indonesia/'],Indonesia
+https://www.worldometers.info/coronavirus/['country/mexico/'],Mexico
+https://www.worldometers.info/coronavirus/['country/poland/'],Poland
+https://www.worldometers.info/coronavirus/['country/portugal/'],Portugal
+https://www.worldometers.info/coronavirus/['country/ukraine/'],Ukraine
+https://www.worldometers.info/coronavirus/['country/north-korea/'],DPRK
+https://www.worldometers.info/coronavirus/['country/malaysia/'],Malaysia
+https://www.worldometers.info/coronavirus/['country/thailand/'],Thailand
+https://www.worldometers.info/coronavirus/['country/austria/'],Austria
+https://www.worldometers.info/coronavirus/['country/israel/'],Israel
+https://www.worldometers.info/coronavirus/['country/belgium/'],Belgium
+https://www.worldometers.info/coronavirus/['country/chile/'],Chile
+https://www.worldometers.info/coronavirus/['country/south-africa/'],South Africa
+https://www.worldometers.info/coronavirus/['country/canada/'],Canada
+https://www.worldometers.info/coronavirus/['country/czech-republic/'],Czechia
+https://www.worldometers.info/coronavirus/['country/taiwan/'],Taiwan
+https://www.worldometers.info/coronavirus/['country/switzerland/'],Switzerland
+https://www.worldometers.info/coronavirus/['country/philippines/'],Philippines
+https://www.worldometers.info/coronavirus/['country/greece/'],Greece
+https://www.worldometers.info/coronavirus/['country/peru/'],Peru
+https://www.worldometers.info/coronavirus/['country/denmark/'],Denmark
+https://www.worldometers.info/coronavirus/['country/romania/'],Romania
+https://www.worldometers.info/coronavirus/['country/sweden/'],Sweden
+https://www.worldometers.info/coronavirus/['country/iraq/'],Iraq
+https://www.worldometers.info/coronavirus/['country/serbia/'],Serbia
+https://www.worldometers.info/coronavirus/['country/bangladesh/'],Bangladesh
+https://www.worldometers.info/coronavirus/['country/hungary/'],Hungary
+https://www.worldometers.info/coronavirus/['country/slovakia/'],Slovakia
+https://www.worldometers.info/coronavirus/['country/jordan/'],Jordan
+https://www.worldometers.info/coronavirus/['country/georgia/'],Georgia
+https://www.worldometers.info/coronavirus/['country/ireland/'],Ireland
+https://www.worldometers.info/coronavirus/['country/pakistan/'],Pakistan
+https://www.worldometers.info/coronavirus/['country/singapore/'],Singapore
+https://www.worldometers.info/coronavirus/['country/norway/'],Norway
+https://www.worldometers.info/coronavirus/['country/new-zealand/'],New Zealand
+https://www.worldometers.info/coronavirus/['country/kazakhstan/'],Kazakhstan
+https://www.worldometers.info/coronavirus/['country/china-hong-kong-sar/'],Hong Kong
+https://www.worldometers.info/coronavirus/['country/morocco/'],Morocco
+https://www.worldometers.info/coronavirus/['country/bulgaria/'],Bulgaria
+https://www.worldometers.info/coronavirus/['country/croatia/'],Croatia
+https://www.worldometers.info/coronavirus/['country/finland/'],Finland
+https://www.worldometers.info/coronavirus/['country/lebanon/'],Lebanon
+https://www.worldometers.info/coronavirus/['country/cuba/'],Cuba
+https://www.worldometers.info/coronavirus/['country/lithuania/'],Lithuania
+https://www.worldometers.info/coronavirus/['country/tunisia/'],Tunisia
+https://www.worldometers.info/coronavirus/['country/slovenia/'],Slovenia
+https://www.worldometers.info/coronavirus/['country/belarus/'],Belarus
+https://www.worldometers.info/coronavirus/['country/nepal/'],Nepal
+https://www.worldometers.info/coronavirus/['country/uruguay/'],Uruguay
+https://www.worldometers.info/coronavirus/['country/united-arab-emirates/'],UAE
+https://www.worldometers.info/coronavirus/['country/mongolia/'],Mongolia
+https://www.worldometers.info/coronavirus/['country/bolivia/'],Bolivia
+https://www.worldometers.info/coronavirus/['country/panama/'],Panama
+https://www.worldometers.info/coronavirus/['country/guatemala/'],Guatemala
+https://www.worldometers.info/coronavirus/['country/ecuador/'],Ecuador
+https://www.worldometers.info/coronavirus/['country/costa-rica/'],Costa Rica
+https://www.worldometers.info/coronavirus/['country/latvia/'],Latvia
+https://www.worldometers.info/coronavirus/['country/saudi-arabia/'],Saudi Arabia
+https://www.worldometers.info/coronavirus/['country/azerbaijan/'],Azerbaijan
+https://www.worldometers.info/coronavirus/['country/sri-lanka/'],Sri Lanka
+https://www.worldometers.info/coronavirus/['country/paraguay/'],Paraguay
+https://www.worldometers.info/coronavirus/['country/kuwait/'],Kuwait
+https://www.worldometers.info/coronavirus/['country/bahrain/'],Bahrain
+https://www.worldometers.info/coronavirus/['country/myanmar/'],Myanmar
+https://www.worldometers.info/coronavirus/['country/dominican-republic/'],Dominican Republic
+https://www.worldometers.info/coronavirus/['country/state-of-palestine/'],Palestine
+https://www.worldometers.info/coronavirus/['country/estonia/'],Estonia
+https://www.worldometers.info/coronavirus/['country/venezuela/'],Venezuela
+https://www.worldometers.info/coronavirus/['country/moldova/'],Moldova
+https://www.worldometers.info/coronavirus/['country/egypt/'],Egypt
+https://www.worldometers.info/coronavirus/['country/cyprus/'],Cyprus
+https://www.worldometers.info/coronavirus/['country/libya/'],Libya
+https://www.worldometers.info/coronavirus/['country/ethiopia/'],Ethiopia
+https://www.worldometers.info/coronavirus/['country/honduras/'],Honduras
+https://www.worldometers.info/coronavirus/['country/armenia/'],Armenia
+https://www.worldometers.info/coronavirus/['country/reunion/'],Réunion
+https://www.worldometers.info/coronavirus/['country/oman/'],Oman
+https://www.worldometers.info/coronavirus/['country/qatar/'],Qatar
+https://www.worldometers.info/coronavirus/['country/bosnia-and-herzegovina/'],Bosnia and Herzegovina
+https://www.worldometers.info/coronavirus/['country/kenya/'],Kenya
+https://www.worldometers.info/coronavirus/['country/zambia/'],Zambia
+https://www.worldometers.info/coronavirus/['country/botswana/'],Botswana
+https://www.worldometers.info/coronavirus/['country/macedonia/'],North Macedonia
+https://www.worldometers.info/coronavirus/['country/albania/'],Albania
+https://www.worldometers.info/coronavirus/['country/algeria/'],Algeria
+https://www.worldometers.info/coronavirus/['country/luxembourg/'],Luxembourg
+https://www.worldometers.info/coronavirus/['country/nigeria/'],Nigeria
+https://www.worldometers.info/coronavirus/['country/zimbabwe/'],Zimbabwe
+https://www.worldometers.info/coronavirus/['country/uzbekistan/'],Uzbekistan
+https://www.worldometers.info/coronavirus/['country/montenegro/'],Montenegro
+https://www.worldometers.info/coronavirus/['country/mozambique/'],Mozambique
+https://www.worldometers.info/coronavirus/['country/laos/'],Laos
+https://www.worldometers.info/coronavirus/['country/kyrgyzstan/'],Kyrgyzstan
+https://www.worldometers.info/coronavirus/['country/iceland/'],Iceland
+https://www.worldometers.info/coronavirus/['country/martinique/'],Martinique
+https://www.worldometers.info/coronavirus/['country/afghanistan/'],Afghanistan
+https://www.worldometers.info/coronavirus/['country/maldives/'],Maldives
+https://www.worldometers.info/coronavirus/['country/el-salvador/'],El Salvador
+https://www.worldometers.info/coronavirus/['country/namibia/'],Namibia
+https://www.worldometers.info/coronavirus/['country/guadeloupe/'],Guadeloupe
+https://www.worldometers.info/coronavirus/['country/uganda/'],Uganda
+https://www.worldometers.info/coronavirus/['country/trinidad-and-tobago/'],Trinidad and Tobago
+https://www.worldometers.info/coronavirus/['country/ghana/'],Ghana
+https://www.worldometers.info/coronavirus/['country/brunei-darussalam/'],Brunei 
+https://www.worldometers.info/coronavirus/['country/jamaica/'],Jamaica
+https://www.worldometers.info/coronavirus/['country/cambodia/'],Cambodia
+https://www.worldometers.info/coronavirus/['country/rwanda/'],Rwanda
+https://www.worldometers.info/coronavirus/['country/cameroon/'],Cameroon
+https://www.worldometers.info/coronavirus/['country/malta/'],Malta
+https://www.worldometers.info/coronavirus/['country/angola/'],Angola
+https://www.worldometers.info/coronavirus/['country/democratic-republic-of-the-congo/'],DRC
+https://www.worldometers.info/coronavirus/['country/french-guiana/'],French Guiana
+https://www.worldometers.info/coronavirus/['country/malawi/'],Malawi
+https://www.worldometers.info/coronavirus/['country/senegal/'],Senegal
+https://www.worldometers.info/coronavirus/['country/barbados/'],Barbados
+https://www.worldometers.info/coronavirus/['country/cote-d-ivoire/'],Ivory Coast
+https://www.worldometers.info/coronavirus/['country/channel-islands/'],Channel Islands
+https://www.worldometers.info/coronavirus/['country/suriname/'],Suriname
+https://www.worldometers.info/coronavirus/['country/french-polynesia/'],French Polynesia
+https://www.worldometers.info/coronavirus/['country/swaziland/'],Eswatini
+https://www.worldometers.info/coronavirus/['country/guyana/'],Guyana
+https://www.worldometers.info/coronavirus/['country/fiji/'],Fiji
+https://www.worldometers.info/coronavirus/['country/madagascar/'],Madagascar
+https://www.worldometers.info/coronavirus/['country/new-caledonia/'],New Caledonia
+https://www.worldometers.info/coronavirus/['country/belize/'],Belize
+https://www.worldometers.info/coronavirus/['country/sudan/'],Sudan
+https://www.worldometers.info/coronavirus/['country/cabo-verde/'],Cabo Verde
+https://www.worldometers.info/coronavirus/['country/mauritania/'],Mauritania
+https://www.worldometers.info/coronavirus/['country/bhutan/'],Bhutan
+https://www.worldometers.info/coronavirus/['country/syria/'],Syria
+https://www.worldometers.info/coronavirus/['country/gabon/'],Gabon
+https://www.worldometers.info/coronavirus/['country/seychelles/'],Seychelles
+https://www.worldometers.info/coronavirus/['country/papua-new-guinea/'],Papua New Guinea
+https://www.worldometers.info/coronavirus/['country/curacao/'],Curaçao
+https://www.worldometers.info/coronavirus/['country/andorra/'],Andorra
+https://www.worldometers.info/coronavirus/['country/burundi/'],Burundi
+https://www.worldometers.info/coronavirus/['country/aruba/'],Aruba
+https://www.worldometers.info/coronavirus/['country/mauritius/'],Mauritius
+https://www.worldometers.info/coronavirus/['country/mayotte/'],Mayotte
+https://www.worldometers.info/coronavirus/['country/togo/'],Togo
+https://www.worldometers.info/coronavirus/['country/guinea/'],Guinea
+https://www.worldometers.info/coronavirus/['country/isle-of-man/'],Isle of Man
+https://www.worldometers.info/coronavirus/['country/bahamas/'],Bahamas
+https://www.worldometers.info/coronavirus/['country/tanzania/'],Tanzania
+https://www.worldometers.info/coronavirus/['country/faeroe-islands/'],Faeroe Islands
+https://www.worldometers.info/coronavirus/['country/lesotho/'],Lesotho
+https://www.worldometers.info/coronavirus/['country/haiti/'],Haiti
+https://www.worldometers.info/coronavirus/['country/mali/'],Mali
+https://www.worldometers.info/coronavirus/['country/cayman-islands/'],Cayman Islands
+https://www.worldometers.info/coronavirus/['country/benin/'],Benin
+https://www.worldometers.info/coronavirus/['country/saint-lucia/'],Saint Lucia
+https://www.worldometers.info/coronavirus/['country/somalia/'],Somalia
+https://www.worldometers.info/coronavirus/['country/congo/'],Congo
+https://www.worldometers.info/coronavirus/['country/timor-leste/'],Timor-Leste
+https://www.worldometers.info/coronavirus/['country/solomon-islands/'],Solomon Islands
+https://www.worldometers.info/coronavirus/['country/burkina-faso/'],Burkina Faso
+https://www.worldometers.info/coronavirus/['country/gibraltar/'],Gibraltar
+https://www.worldometers.info/coronavirus/['country/nicaragua/'],Nicaragua
+https://www.worldometers.info/coronavirus/['country/grenada/'],Grenada
+https://www.worldometers.info/coronavirus/['country/san-marino/'],San Marino
+https://www.worldometers.info/coronavirus/['country/liechtenstein/'],Liechtenstein
+https://www.worldometers.info/coronavirus/['country/tajikistan/'],Tajikistan
+https://www.worldometers.info/coronavirus/['country/south-sudan/'],South Sudan
+https://www.worldometers.info/coronavirus/['country/bermuda/'],Bermuda
+https://www.worldometers.info/coronavirus/['country/equatorial-guinea/'],Equatorial Guinea
+https://www.worldometers.info/coronavirus/['country/djibouti/'],Djibouti
+https://www.worldometers.info/coronavirus/['country/samoa/'],Samoa
+https://www.worldometers.info/coronavirus/['country/dominica/'],Dominica
+https://www.worldometers.info/coronavirus/['country/central-african-republic/'],CAR
+https://www.worldometers.info/coronavirus/['country/monaco/'],Monaco
+https://www.worldometers.info/coronavirus/['country/tonga/'],Tonga
+https://www.worldometers.info/coronavirus/['country/gambia/'],Gambia
+https://www.worldometers.info/coronavirus/['country/greenland/'],Greenland
+https://www.worldometers.info/coronavirus/['country/yemen/'],Yemen
+https://www.worldometers.info/coronavirus/['country/vanuatu/'],Vanuatu
+https://www.worldometers.info/coronavirus/['country/saint-martin/'],Saint Martin
+https://www.worldometers.info/coronavirus/['country/sint-maarten/'],Sint Maarten
+https://www.worldometers.info/coronavirus/['country/caribbean-netherlands/'],Caribbean Netherlands
+https://www.worldometers.info/coronavirus/['country/eritrea/'],Eritrea
+https://www.worldometers.info/coronavirus/['country/niger/'],Niger
+https://www.worldometers.info/coronavirus/['country/antigua-and-barbuda/'],Antigua and Barbuda
+https://www.worldometers.info/coronavirus/['country/guinea-bissau/'],Guinea-Bissau
+https://www.worldometers.info/coronavirus/['country/comoros/'],Comoros
+https://www.worldometers.info/coronavirus/['country/sierra-leone/'],Sierra Leone
+https://www.worldometers.info/coronavirus/['country/liberia/'],Liberia
+https://www.worldometers.info/coronavirus/['country/chad/'],Chad
+https://www.worldometers.info/coronavirus/['country/saint-vincent-and-the-grenadines/'],St. Vincent Grenadines
+https://www.worldometers.info/coronavirus/['country/british-virgin-islands/'],British Virgin Islands
+https://www.worldometers.info/coronavirus/['country/turks-and-caicos-islands/'],Turks and Caicos
+https://www.worldometers.info/coronavirus/['country/saint-kitts-and-nevis/'],Saint Kitts and Nevis
+https://www.worldometers.info/coronavirus/['country/sao-tome-and-principe/'],Sao Tome and Principe
+https://www.worldometers.info/coronavirus/['country/cook-islands/'],Cook Islands
+https://www.worldometers.info/coronavirus/['country/palau/'],Palau
+https://www.worldometers.info/coronavirus/['country/saint-barthelemy/'],St. Barth
+https://www.worldometers.info/coronavirus/['country/nauru/'],Nauru
+https://www.worldometers.info/coronavirus/['country/anguilla/'],Anguilla
+https://www.worldometers.info/coronavirus/['country/kiribati/'],Kiribati
+https://www.worldometers.info/coronavirus/['country/saint-pierre-and-miquelon/'],Saint Pierre Miquelon
+https://www.worldometers.info/coronavirus/['country/falkland-islands-malvinas/'],Falkland Islands
+https://www.worldometers.info/coronavirus/['country/montserrat/'],Montserrat
+https://www.worldometers.info/coronavirus/['country/wallis-and-futuna-islands/'],Wallis and Futuna
+https://www.worldometers.info/coronavirus/['country/china-macao-sar/'],Macao
+https://www.worldometers.info/coronavirus/['country/micronesia/'],Micronesia
+https://www.worldometers.info/coronavirus/['country/holy-see/'],Vatican City
+https://www.worldometers.info/coronavirus/['country/marshall-islands/'],Marshall Islands
+https://www.worldometers.info/coronavirus/['country/niue/'],Niue
+https://www.worldometers.info/coronavirus/['country/western-sahara/'],Western Sahara
+https://www.worldometers.info/coronavirus/['country/tuvalu/'],Tuvalu
+https://www.worldometers.info/coronavirus/['country/saint-helena/'],Saint Helena

@@ -1,4 +1,5 @@
 import scrapy
+import scraper_helper as sh
 
 
 class GreatbooksSpider(scrapy.Spider):
@@ -9,7 +10,8 @@ class GreatbooksSpider(scrapy.Spider):
     def parse(self, response):
         all_div = response.css("div.col")
         for div in all_div:
-            title = div.css("a::text").extract()
+            title  = div.css("a::text").extract()
+            title  = [sh.cleanup(x) for x in title]
 
             yield {'title':title}
             

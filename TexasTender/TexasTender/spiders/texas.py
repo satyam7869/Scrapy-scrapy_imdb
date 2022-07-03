@@ -5,18 +5,18 @@ from ..items import TexastenderItem
 class TexasSpider(scrapy.Spider):
     name = 'texas'
     allowed_domains = ['gis-txdot.opendata.arcgis.com']
-    start_urls = ['https://gis-txdot.opendata.arcgis.com/search?collection=Dataset&modified=1900-06-29%2C2022-06-30']
+    start_urls = ['https://gis-txdot.opendata.arcgis.com/search?collection=Dataset']
 
     def parse(self, response):
         items = TexastenderItem()
 
-        title = response.css(".result-name::text").extract()
-        dept  = response.css(".owner-source::text").extract()
-        desc  = response.css(".description::text").extract()
-        typee = response.css("span::text").extract()
-        lstup = response.css("span::text").extract()
-        rows  = response.css("span::text").extract()
-        tags  = response.css("span::text").extract()
+        title = response.xpath("//div/a[@class='ember-view result-name']/@href").getall()
+        dept  = response.xpath("//div[@class='owner-source']/text()").getall()
+        desc  = response.xpath("//div[@class='description']/text()").getall()
+        typee = response.css("span[data-test='metadata-col-1-item-0']::text").getall()
+        lstup = response.css("span[data-test='metadata-col-1-item-1']::text").getall()
+        rows  = response.css("span[data-test='metadata-col-2-item-0']::text").getall()
+        tags  = response.css("span[data-test='metadata-col-2-item-1']::text").getall()
             
         
         items['title'] = title

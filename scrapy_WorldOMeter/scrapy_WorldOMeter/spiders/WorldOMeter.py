@@ -1,17 +1,28 @@
 import scrapy
+import scraper_helper as sh
+from ..items import ScrapyWorldometerItem
 
 
 class WorldometerSpider(scrapy.Spider):
     name = 'WorldOMeter'
     allowed_domains = ['https://www.worldometers.info/']
-    start_urls = ['https://www.worldometers.info/coronavirus']
+    start_urls = ['https://www.worldometers.info/coronavirus/']
 
     def parse(self, response):
-        for country in (response.xpath("//td/a/")):
-            name=coutry.xpath(".//text()").get()
-            link=country.xpath(".//@href").get()
+        items = ScrapyWorldometerItem()
+        for responses in (response.css('a.mt_a')):    
+            name = responses.css("::text").getall()
+            for link in response.css("a.mt_a::attr(href)").getall():
+                yield scrapy.Request(response.urljoin(link),callback = self.parse)
+                link =  response.url + str(responses.css("::attr(href)").getall())
 
-            yield {
-                'country_name':name,
-                'country_link':link
-                }
+            
+            
+                items['name']    =  name
+                items['link']   =   link 
+
+            
+            
+            yield items
+                
+                
